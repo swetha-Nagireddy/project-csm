@@ -24,7 +24,7 @@ import lombok.Setter;
 @Getter
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name="Customer")
+@Table(name="CUSTOMER")
 public class Customer {
 	
     /**
